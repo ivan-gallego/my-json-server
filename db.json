@@ -1,12 +1,11 @@
-[
-                {
-                    id: 1,
-                    url: "https://i.ibb.co/1Zpbtq0/2020-08-04.png",
-                    capacity: 100
-                },
-                {
-                    id: 2,
-                    url: "https://i.ibb.co/1Zpbtq0/2020-08-04.png",
-                    capacity: 200
-                }
-   ]
+[{
+		"id": 1,
+		"url": "https://i.ibb.co/1Zpbtq0/2020-08-04.png",
+		"capacity": 100
+	},
+	{
+		"id": 2,
+		"url": "https://i.ibb.co/1Zpbtq0/2020-08-04.png",
+		"capacity": 200
+	}
+]
